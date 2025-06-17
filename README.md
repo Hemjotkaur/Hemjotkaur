@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemjotkaur&label=Profile%20views&color=0e75b6&style=flat" alt="hemjotkaur" /> </p>
   <td>
-      <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" />
+      <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/37abae1350fe3344aebaaebfba4227dfa1ee6e8cf55efed02329fbe00dbf63c1/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37646234656161336534373237326338653538656530313866633339306237642f74656e6f722e676966" />
     </td>
 
 - 🔭 I’m currently working on **improving my Tech Skills.**
